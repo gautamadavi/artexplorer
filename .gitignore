@@ -23,3 +23,4 @@ local.properties
 .idea/misc.xml
 gradlew.bat
 gradlew
+.idea/vcs.xml
